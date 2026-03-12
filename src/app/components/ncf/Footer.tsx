@@ -48,12 +48,17 @@ export function Footer() {
             <li><a href="#ncf-final">Family Inquiry</a></li>
             <li><a href="#">School Partnerships</a></li>
             <li><a href="#">Contact Us</a></li>
+            <li><a href="https://linkedin.com/in/jacklyn-warner-4718a09" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+            <li><a href="https://facebook.com/Jacklyn.Warner.75" target="_blank" rel="noopener noreferrer">Facebook</a></li>
           </ul>
         </div>
       </div>
 
       <div className="ncf-fbot">
         <span>© 2025 NeuroChangeFamily. All rights reserved.</span>
+        <span>
+          <a href="https://neurochangeinstitute.org/cookie-policy/" target="_blank" rel="noopener noreferrer">Cookie Policy</a>
+        </span>
         <span>Made by KATALYST</span>
       </div>
     </footer>

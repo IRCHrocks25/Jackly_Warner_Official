@@ -33,7 +33,7 @@ export function LeadMagnet() {
             <div className="ncf-lck">15–30 minutes, in person or Zoom</div>
             <div className="ncf-lck">No diagnosis, no judgment</div>
           </div>
-          <a href="#" className="ncf-btn-white" style={{ alignSelf: "flex-start" }}>
+          <a href="https://calendly.com/bouviermon/30min" className="ncf-btn-white" style={{ alignSelf: "flex-start" }} target="_blank" rel="noopener noreferrer">
             Book Your Free Mini Session →
           </a>
         </div>

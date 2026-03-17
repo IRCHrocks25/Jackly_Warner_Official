@@ -35,7 +35,7 @@ export function FinalCTA() {
             and we know exactly how to provide it.
           </p>
           <div style={{ display: "flex", justifyContent: "center" }}>
-            <a href="#ncf-lead" className="ncf-btn-primary">
+            <a href="https://calendly.com/bouviermon/30min" className="ncf-btn-primary" target="_blank" rel="noopener noreferrer">
               Begin Your Family's Transformation →
             </a>
           </div>

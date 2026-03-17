@@ -1,4 +1,5 @@
 import ballImg from "../../../public/bacll.png";
+import researchPdf from "../../../public/PsytechResultsafteraCognomovementSession.pdf";
 
 const scienceCards = [
   {
@@ -62,7 +63,7 @@ export function ScienceSection() {
             P300 QEEG research shows measurable improvements from a single 40-minute
             Cognomovement session.
           </p>
-          <a href="#ncf-lead" className="ncf-btn-text">See the full research →</a>
+          <a href={researchPdf} className="ncf-btn-text" download="PsytechResults-Cognomovement-Session.pdf" target="_blank" rel="noopener noreferrer">See the full research →</a>
         </div>
       </div>
 

@@ -32,7 +32,7 @@ export function Nav() {
           <li><a href="#ncf-programs">Programs</a></li>
           <li><a href="#ncf-founder">Jacklyn</a></li>
           <li><a href="#ncf-science">The Science</a></li>
-          <li><a href="#ncf-lead" className="ncf-nav-cta">Book Free Session</a></li>
+          <li><a href="https://calendly.com/bouviermon/30min" className="ncf-nav-cta" target="_blank" rel="noopener noreferrer">Book Free Session</a></li>
         </ul>
         <button
           className={`ncf-nav-toggle ${menuOpen ? "open" : ""}`}
@@ -50,7 +50,7 @@ export function Nav() {
         <a href="#ncf-programs" onClick={closeMenu}>Programs</a>
         <a href="#ncf-founder" onClick={closeMenu}>Jacklyn</a>
         <a href="#ncf-science" onClick={closeMenu}>The Science</a>
-        <a href="#ncf-lead" className="ncf-nav-cta" onClick={closeMenu}>Book Free Session</a>
+        <a href="https://calendly.com/bouviermon/30min" className="ncf-nav-cta" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>Book Free Session</a>
       </div>
     </>
   );

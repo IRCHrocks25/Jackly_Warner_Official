@@ -44,7 +44,7 @@ export function Footer() {
         <div className="ncf-fcol">
           <h5>Connect</h5>
           <ul>
-            <li><a href="#ncf-lead">Book Free Session</a></li>
+            <li><a href="https://calendly.com/bouviermon/30min" target="_blank" rel="noopener noreferrer">Book Free Session</a></li>
             <li><a href="#ncf-final">Family Inquiry</a></li>
             <li><a href="#">School Partnerships</a></li>
             <li><a href="#">Contact Us</a></li>

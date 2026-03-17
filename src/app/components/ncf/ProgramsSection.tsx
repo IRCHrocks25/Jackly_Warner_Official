@@ -50,7 +50,7 @@ export function ProgramsSection() {
             <div className="ncf-ppr">
               <div className="ncf-pprice">Free</div>
             </div>
-            <a href="#ncf-lead" className="ncf-pbtn ncf-pbtn-sage">Book Free Session</a>
+            <a href="https://calendly.com/bouviermon/30min" className="ncf-pbtn ncf-pbtn-sage" target="_blank" rel="noopener noreferrer">Book Free Session</a>
           </div>
         </div>
 
@@ -73,7 +73,7 @@ export function ProgramsSection() {
             <div className="ncf-ppr">
               <div className="ncf-pprice" style={{ fontSize: "1.6rem", lineHeight: 1.3 }}>Contact for Pricing</div>
             </div>
-            <a href="#ncf-lead" className="ncf-pbtn ncf-pbtn-white">Start Building Regulation</a>
+            <a href="https://calendly.com/bouviermon/30min" className="ncf-pbtn ncf-pbtn-white" target="_blank" rel="noopener noreferrer">Start Building Regulation</a>
           </div>
         </div>
 
@@ -96,7 +96,7 @@ export function ProgramsSection() {
             <div className="ncf-ppr">
               <div className="ncf-pprice" style={{ fontSize: "1.6rem", lineHeight: 1.3 }}>Contact for Pricing</div>
             </div>
-            <a href="#ncf-lead" className="ncf-pbtn ncf-pbtn-blush">Discover Full Program</a>
+            <a href="https://calendly.com/bouviermon/30min" className="ncf-pbtn ncf-pbtn-blush" target="_blank" rel="noopener noreferrer">Discover Full Program</a>
           </div>
         </div>
       </div>

@@ -23,7 +23,7 @@ export function Hero() {
           often within the very first session.
         </p>
         <div className="ncf-hero-actions ncf-hero-actions--left">
-          <a href="#ncf-lead" className="ncf-btn-primary">Book Your Free Mini Session</a>
+          <a href="https://calendly.com/bouviermon/30min" className="ncf-btn-primary" target="_blank" rel="noopener noreferrer">Book Your Free Mini Session</a>
           <a
             href="#ncf-method"
             className="ncf-btn-outline"

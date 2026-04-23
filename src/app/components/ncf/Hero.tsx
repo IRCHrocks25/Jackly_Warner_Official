@@ -12,7 +12,7 @@ export function Hero() {
       <div className="ncf-hero-overlay" />
 
       <div className="ncf-hero-content ncf-hero-content--left">
-        <div className="ncf-hero-eyebrow">Nervous System Support for Families</div>
+        <div className="ncf-hero-eyebrow">Nervous System Support for Autistic Children & Families</div>
         <h1 className="ncf-hero-title ncf-hero-title--sm">
           Your Child Isn't Broken.<br />
           <em>Their Body Is Asking for Help.</em>
